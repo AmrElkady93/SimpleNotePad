@@ -1,1 +1,1 @@
-# SimpleNotPad make some functionality of notpad
+# SimpleNotPad make some functionality of notepad
